@@ -33,12 +33,14 @@ The following Python libraries are required to run the notebook:
 Install the dependencies using the following command:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn surprise
+```
 ## How to Use
+
 1. Clone the repository:
    ```bash
-     git clone https://github.com/yourusername/MovieRecommendationSystem.git
-
+   git clone https://github.com/yourusername/RockVsMine.git
    ```
+
 
 2. Navigate to the directory:
    ```bash
